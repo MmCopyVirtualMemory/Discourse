@@ -13,7 +13,9 @@ Game hacking is morally frowned upon by most people so it takes a (somewhat) twi
 
 ## Showcase
 
-Below I have attached a few images of hacks I have coded. I have cheated in many of these games for many years without ever being banned. As always, there are many imperfections and I often only coded until what I wrote fit my needs. I never inteneded to please anyone besides myself with my code. **None of these cheats were used in a competitive environment in any game and they were never distributed. Game devs rest easy.**
+Below I have attached a few images of hacks I have coded. I have cheated in many of these games for many years without ever being banned. As always, there are many imperfections and I often only coded until what I wrote fit my needs. I never inteneded to please anyone besides myself with my code. 
+
+**None of these cheats were used in a competitive environment in any game and they were never distributed. Game devs rest easy.**
 
 
 
