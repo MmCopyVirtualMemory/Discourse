@@ -26,10 +26,11 @@ I wouldn't recommend game hacking to someone who doesn't love playing videogames
 
 ## Showcase
 
-Below I have attached a few images of hacks I have coded. I have cheated in many of these games for many years without ever being banned. As always, there are many imperfections and I often only coded until what I wrote fit my needs. I never intended to please anyone besides myself with my code or the visuals so I ask you to take them as they are. 
+Below I have attached a few images of hacks I have coded. This is far from all of them. I have left out many smaller games and many of these are old versions. I have cheated in many of these games for many years without ever being banned. As always, there are many imperfections and I often only coded until what I wrote fit my needs. I never intended to please anyone besides myself with my code or the visuals so I ask you to take them as they are. 
 
 **None of these cheats were used in a competitive environment in any game and they were never distributed. Game devs rest easy.**
 
+![image](https://user-images.githubusercontent.com/88007716/231978985-d7e3e4c9-4828-489f-baee-91f68175f9c1.png)
 ![cheat2](https://user-images.githubusercontent.com/88007716/231962239-45f1846f-c489-4b9e-a441-58210710624e.png)
 ![cheat1](https://user-images.githubusercontent.com/88007716/231962240-a201e2e4-af49-4e82-9653-4d587a3dc9f5.png)
 ![cheat4](https://user-images.githubusercontent.com/88007716/231962241-e6b3312f-86b1-4530-91c5-9a2be89fc9ee.png)
