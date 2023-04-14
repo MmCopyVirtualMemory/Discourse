@@ -1,4 +1,4 @@
-# Discourse On Game Hacking.
+# Discourse On Game Hacking
 
 ## Background
 
